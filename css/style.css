@@ -1,3 +1,21 @@
+@media (max-width: 768px) {
+    .pdf-iframe {
+        height: 400;
+        width: 80%;
+    }
+    .video-iframe{
+        width:70%;
+        
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+    .pdf-iframe {
+        height: 500;
+        width: 85%;
+    }
+}
+
 /* contact us start */
 .contact-container {
     max-width: 600px;
